@@ -1,4 +1,4 @@
-//Chess Player + Basic 1 Level AI 
+//Chess Player + 2-move lookahead AI
 //Kelvin Wei Hai Cui, 2019
 
 //                            TREE DATA STRUCTURE
